@@ -69,9 +69,9 @@ body:
 
         ```
   - type: textarea
-    id: code-example
+    id: system-info
     attributes:
-      label: Code example
+      label: System Info
       description: |
         Describe the characteristic of your environment:
          * Describe how the library was installed (pip, docker, source, ...)
