@@ -29,13 +29,15 @@ body:
         from stable_baselines3 import ...
 
         ```
+
   - type: textarea
-    id: logs
+    id: traceback
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      label: Relevant log output / Error message
+      description: Please copy and paste any relevant log output / error message. This will be automatically formatted into code, so no need for backticks.
       placeholder: "Traceback (most recent call last): File ..."
       render: shell
+
   - type: textarea
     id: system-info
     attributes:
