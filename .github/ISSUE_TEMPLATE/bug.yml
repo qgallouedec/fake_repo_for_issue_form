@@ -29,11 +29,6 @@ body:
         from stable_baselines3 import ...
 
         ```
-
-        ```bash
-        Traceback (most recent call last): File ...
-
-        ```
   - type: textarea
     id: logs
     attributes:
